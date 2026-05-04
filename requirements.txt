@@ -1,8 +1,0 @@
-transformers
-torch
-evaluate
-scikit-learn
-gradio
-sentencepiece
-protobuf
-tokenizers
