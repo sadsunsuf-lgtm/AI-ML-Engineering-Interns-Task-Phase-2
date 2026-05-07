@@ -17,4 +17,3 @@ This approach mimics how human experts evaluate properties—by looking at both 
 - **Architecture:** Successfully implemented a multi-input Keras model.
 - **Insights:** The model learned that image features provide a significant "vibe" weight to the price that numerical data alone cannot capture.
 - **Metrics:** Evaluated using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) to ensure prediction accuracy.
-
